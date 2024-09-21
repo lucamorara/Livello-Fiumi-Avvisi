@@ -1,5 +1,9 @@
 [
   {
+    "id": "0",
+    "avviso": "Aggiornare l'app per correggere gli errori. Disponibile nuovo aggiornamento."
+  },
+  {
     "id": "3195",
     "avviso": "L'idrometro 'Modigliana' non mostra più dati causa rottura."
   },
