@@ -1,5 +1,11 @@
 [
   {
+    "id": "0",
+    "avviso": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a aliquam ipsum, a condimentum lectus. Vivamus eu tellus in sapien condimentum dignissim sed eget nulla. Cras gravida sed magna sed porta. Ut ac aliquam dolor.",
+    "titolo": "Titolo dell'avviso abbastanza",
+    "codice": "1"
+  },
+  {
     "id": "3195",
     "avviso": "L'idrometro 'Modigliana' non mostra più dati causa rottura."
   },
