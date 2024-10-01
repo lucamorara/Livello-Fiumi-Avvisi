@@ -1,12 +1,5 @@
 [
   {
-    "id": "0",
-    "avviso": "Dalle ore 12:00 di oggi, causa manutenzione da parte di Arpae, il servizio potrebbe subire dei ritardi nell'aggiornamento dei dati idrometrici.",
-    "titolo": "Possibile disservizio",
-    "codice": "avviso_01102024_1",
-    "urgenza": 0,
-  },
-  {
     "id": "3195",
     "avviso": "L'idrometro 'Modigliana' non mostra più dati causa rottura."
   },
