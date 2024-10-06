@@ -1,5 +1,12 @@
 [
  {
+    "id": "0",
+    "titolo": "Avviso di prova",
+    "codice": "avviso_06102024_1",
+    "urgenza": 0,
+    "avviso": "Questo avviso è una prova per verificare il corretto funzionamento."
+  },
+ {
     "id": "5489",
     "avviso": "L'idrometro 'Ciriano' potrebbe non mostrare dati reali."
   }
