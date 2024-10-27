@@ -1,12 +1,5 @@
 [
  {
-    "id": "0",
-    "titolo": "Avviso di prova",
-    "codice": "avviso_27102024_1",
-    "urgenza": 0,
-    "avviso": "Questo avviso è una prova per verificare il corretto funzionamento."
- },
- {
   "id": "6560",
   "avviso": "L'idrometro 'Conca 1' ha smesso di mostrare valori."
  },
