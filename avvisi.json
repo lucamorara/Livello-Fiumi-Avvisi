@@ -1,3 +1,9 @@
 [
- 
+ {
+    "id": "0",
+    "titolo": "Caricamento idrometri",
+    "codice": "avviso_22122024_1",
+    "urgenza": 0,
+    "avviso": "A causa di problemi di Arpae, il caricamento degli idrometri protrebbe essere momentaneamnete sospeso."
+ }
 ]
