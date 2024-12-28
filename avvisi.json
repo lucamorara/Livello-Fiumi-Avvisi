@@ -1,3 +1,9 @@
 [
- 
+ {
+    "id": "0",
+    "titolo": "Disservizio Arpae",
+    "codice": "avviso_28122024_1",
+    "urgenza": 0,
+    "avviso": "A causa di problemi di Arpae, i dati degli idrometri potrebbero non risultare disponibili."
+ }
 ]
