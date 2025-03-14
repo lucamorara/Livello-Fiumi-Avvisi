@@ -1,3 +1,9 @@
 [
- 
+ {
+     "id": "0",
+     "titolo": "Disservizio Arpae",
+     "codice": "avviso_13032025_1",
+     "urgenza": 1,
+     "avviso": "A causa dell’elevato traffico nei server Arpae, i dati degli idrometri potrebbero non risultare momentaneamente disponibili."
+  }
 ]
